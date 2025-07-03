@@ -33,4 +33,6 @@ func main() {
 	fmt.Println(aConstant)
 	fmt.Printf("the variable's type is %T\n", aConstant)
 
+	test
+
 }
